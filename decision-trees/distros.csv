@@ -1,0 +1,12 @@
+name,base,release_year,purpose
+archlinux,none,2002,general
+bodhi linux,debian,2011,desktop
+chakra,archlinux,2010,desktop
+debain,none,1993,general
+fedora,rhl,2003,general
+oracle linux,rhl,2006,server
+trustix,rhl,2000,server
+ubuntu,debian,2004,general
+gentoo linux,none,2002,general
+pentoo,gentoo linux,2005,security
+opensuse,suse linux,1994,general
